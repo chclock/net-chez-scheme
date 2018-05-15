@@ -1,2 +1,13 @@
-*.o
-*.so
+*.ss~
+*.ss#*
+.#*.ss
+
+*.scm~
+*.scm#*
+.#*.scm
+
+tensorflow-code
+/demo
+/lib
+/test.ss
+/ffi-maker.sc
